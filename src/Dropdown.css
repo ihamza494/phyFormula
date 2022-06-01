@@ -1,0 +1,9 @@
+
+.box-body{
+    color: violet;
+    font-size: large;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    height: 100px;
+}

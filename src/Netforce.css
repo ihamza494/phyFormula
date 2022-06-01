@@ -1,0 +1,19 @@
+.inputBox-body{
+    text-align: center;
+    border: 2px solid;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+}
+.inputBox-form input{
+   margin-top: 5px;
+   padding: 5px;
+}
+.inputBox-form button {
+    padding: 10px 20px;
+    background-color: dodgerblue;
+    border: 1px solid #ddd;
+    color: white;
+    cursor: pointer;
+    margin-top: 5px;
+  }
