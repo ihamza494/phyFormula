@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Practice from "./Practice";
+import UseStateHookSpreadOp from "./UseStateHookSpreadOp";
 // import HeaderComponent from "./HeaderComponent";
 // import DropdownBox from "./Dropdown";
 // import Netforce from "./Netforce";
@@ -10,7 +10,7 @@ import Practice from "./Practice";
 function App() {
   return (
     <>
-      <Practice />
+      <UseStateHookSpreadOp />
       {/* <HeaderComponent />
       <DropdownBox /> */}
       {/* <Netforce />
